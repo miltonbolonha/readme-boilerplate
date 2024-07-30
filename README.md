@@ -81,57 +81,6 @@ Descola is an innovative startup in the field of courses, and its main partner i
 
 I have a long career in volunteer services, starting this passion in Paraíba between 2007 and 2009 with philanthropic (non-paid) work in various cities in the state.
 
-## Professional Timeline
-
-### Freelancer - Local and Worldwide (online)
-
-**2006 ~ Present**  
-CEO, CTO, Fullstack Developer, Senior Designer, GitHub Developer, Designer, Final Art Editor, Book Editor, Layout Designer, Author Writer, Philosopher, Music Producer, Composer, Musician, Vocalist, and Philanthropist.
-
-### Creativity Block - CRO Developer & Team Manager (online: Portugal and Worldwide)
-
-**Feb 2024 ~ Present**  
-Fullstack Developer, Designer, and Copywriter.
-
-### UpWork - Worldwide (online: Italy, France, United States, and Germany)
-
-**2018 ~ Jan 2024**  
-Fullstack Developer, Designer, and Copywriter.
-
-### Green Hat - Denver, CO, USA (online)
-
-**2018 ~ 2020**  
-WordPress Developer, Web Developer, and Designer.
-
-### Agência Inoltz - Salvador/SP
-
-**2014 ~ 2015**  
-PHP and Fullstack Developer.
-
-### Agência IdeiaON - São Paulo/SP
-
-**2011 ~ 2012**  
-PHP, WordPress Developer, and Fullstack Developer.
-
-### Agência DIX - Ribeirão Preto/SP
-
-**2010**  
-PHP and Fullstack Developer.
-
-### Servicom - Ribeirão Preto/SP
-
-**2009 ~ 2010**  
-Joomla Developer and Back-End Developer.
-
-### Philanthropic Humanitarian Work - Paraíba
-
-**2007 ~ 2009**
-
-### World Designer - Ribeirão Preto/SP
-
-**2006 ~ 2007**  
-Flash, Dreamweaver, and Front-End Developer.
-
 ## Testimonials
 
 See below what people are saying about my technology and work. These are real testimonials from my clients:
