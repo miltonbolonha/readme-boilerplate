@@ -314,6 +314,8 @@ Netlify's Identity and Git Gateway services allow you to manage CMS admin users 
 
 # SendGrid Integration
 
+Documentation in progress.
+
 ---
 
 # Managing Posts
