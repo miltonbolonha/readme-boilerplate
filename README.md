@@ -243,6 +243,7 @@ npm run build
     │    ├── public/
     │    ├── lib/
     │    └── src/
+    │        ├── containers/
     │        ├── components/
     │        ├── pages/
     │        └── styles/
@@ -253,45 +254,6 @@ npm run build
     ├── .gitignore
     ├── package.json
     └── README.md
-
-## Key Files and Directories
-
-### .github/workflows/\*.yml
-
-Contains YAML files defining GitHub Actions workflows, such as `netlify-build-YYYY-MM-DD.yml`, which trigger future builds on Netlify on specified dates.
-
-### ./content
-
-Stores blog content in Markdown files, organized into subdirectories like `posts` and `pages`. Examples include:
-
-- `./content/posts/secret-college-money-solution-most-students-overlook.md`
-- `./content/pages/about.md`
-
-### ./core
-
-Contains the core application logic, including synchronization scripts, styles, and templates.
-
-#### ./core/src/lib/sync-lib.js
-
-This file contains various helper functions for processing and synchronizing content:
-
-- **readMDFiles**: Reads all Markdown files in the specified directory.
-- **createJsonAllMDFiles**: Creates JSON files from Markdown content.
-- **writeSitemap**: Generates sitemaps for posts and pages.
-- **syncPublicFiles**: Synchronizes files from `content/public` to `core/public`.
-- **createNetlifyBuildYML**: Creates YAML files for scheduling Netlify builds.
-- **cleanOldBuildYMLFiles**: Removes outdated workflow files.
-
-#### ./core/src/styles
-
-Contains style files, organized into:
-
-- **global**: Global styles and variables.
-- **components**: Styles for specific components like buttons, headers, and footers.
-- **modules**: Styles for different application modules.
-- **pages**: Dynamic page-specific styles.
-
----
 
 # GitHub Installation Steps
 
