@@ -17,33 +17,33 @@ Automate processes with automated workflows, reducing manual effort and increasi
 
 ## Summary
 
-1. [Milton Bolonha](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#milton-bolonha)
-1. [Prerequisites](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#prerequisites)
-1. [Manual Installation](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#manual-installation)
-1. [Project Structure](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#project-structure)
-1. [GitHub Installation Steps](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#github-installation-steps)
-1. [Netlify Deploy Steps](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#netlify-deploy-steps)
-1. [SendGrid Integration](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#sendGrid-integration)
-1. [Managing Posts](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#managing-posts)
-1. [Managing Pages](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#managing-pages)
-1. [Business Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#business-settings)
-1. [Site Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#site-settings)
-1. [Theme Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#theme-settings)
-1. [Logos Upload](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#logos-upload)
-1. [Main Menu](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#main-menu)
-1. [Link Tree](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#link-tree)
-1. [Our Features](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#our-features)
-   - [Commercial Advantages](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#commercial-advantages)
-   - [Integrations](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#integrations)
-   - [Development Technologies](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#development-technologies)
-   - [Blog Features](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#blog-features)
-   - [Web Coding](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#web-coding)
-   - [Code Flow](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#code-flow)
-   - [Code Quality](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#code-quality)
-   - [PageSpeed](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#pagespeed)
-   - [Optimization](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#optimization)
-   - [Standard Documentations](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#standard-documentations)
-1. [Contact Info](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#contact-info)
+1. [Milton Bolonha](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#milton-bolonha)
+1. [Prerequisites](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#prerequisites)
+1. [Manual Installation](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#manual-installation)
+1. [Project Structure](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#project-structure)
+1. [GitHub Installation Steps](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#github-installation-steps)
+1. [Netlify Deploy Steps](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#netlify-deploy-steps)
+1. [SendGrid Integration](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#sendGrid-integration)
+1. [Managing Posts](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#managing-posts)
+1. [Managing Pages](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#managing-pages)
+1. [Business Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#business-settings)
+1. [Site Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#site-settings)
+1. [Theme Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#theme-settings)
+1. [Logos Upload](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#logos-upload)
+1. [Main Menu](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#main-menu)
+1. [Link Tree](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#link-tree)
+1. [Our Features](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#our-features)
+   - [Commercial Advantages](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#commercial-advantages)
+   - [Integrations](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#integrations)
+   - [Development Technologies](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#development-technologies)
+   - [Blog Features](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#blog-features)
+   - [Web Coding](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#web-coding)
+   - [Code Flow](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#code-flow)
+   - [Code Quality](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#code-quality)
+   - [PageSpeed](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#pagespeed)
+   - [Optimization](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#optimization)
+   - [Standard Documentations](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#standard-documentations)
+1. [Contact Info](https://github.com/miltonbolonha/readme-boilerplate/blob/main/README.md#contact-info)
 
 # Milton Bolonha
 
@@ -80,6 +80,57 @@ I worked for over 2 years at the American web agency Green Hat Web Solution. Gre
 Descola is an innovative startup in the field of courses, and its main partner is Cubo Itaú. They use technology created by me on their blog, with the same standards used in this book.
 
 I have a long career in volunteer services, starting this passion in Paraíba between 2007 and 2009 with philanthropic (non-paid) work in various cities in the state.
+
+## Professional Timeline
+
+### Freelancer - Local and Worldwide (online)
+
+**2006 ~ Present**  
+CEO, CTO, Fullstack Developer, Senior Designer, GitHub Developer, Designer, Final Art Editor, Book Editor, Layout Designer, Author Writer, Philosopher, Music Producer, Composer, Musician, Vocalist, and Philanthropist.
+
+### Creativity Block - CRO Developer & Team Manager (online: Portugal and Worldwide)
+
+**Feb 2024 ~ Present**  
+Fullstack Developer, Designer, and Copywriter.
+
+### UpWork - Worldwide (online: Italy, France, United States, and Germany)
+
+**2018 ~ Jan 2024**  
+Fullstack Developer, Designer, and Copywriter.
+
+### Green Hat - Denver, CO, USA (online)
+
+**2018 ~ 2020**  
+WordPress Developer, Web Developer, and Designer.
+
+### Agência Inoltz - Salvador/SP
+
+**2014 ~ 2015**  
+PHP and Fullstack Developer.
+
+### Agência IdeiaON - São Paulo/SP
+
+**2011 ~ 2012**  
+PHP, WordPress Developer, and Fullstack Developer.
+
+### Agência DIX - Ribeirão Preto/SP
+
+**2010**  
+PHP and Fullstack Developer.
+
+### Servicom - Ribeirão Preto/SP
+
+**2009 ~ 2010**  
+Joomla Developer and Back-End Developer.
+
+### Philanthropic Humanitarian Work - Paraíba
+
+**2007 ~ 2009**
+
+### World Designer - Ribeirão Preto/SP
+
+**2006 ~ 2007**  
+Flash, Dreamweaver, and Front-End Developer.
 
 ## Testimonials
 
