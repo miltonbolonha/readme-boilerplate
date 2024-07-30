@@ -7,48 +7,43 @@ This is the project from my two decades of experience and my 5 years research an
 You will see a lot features, such as:
 
 **High-Quality SEO:**
-"Improve online visibility with integrated SEO, ensuring better rankings in search results."
+Improve online visibility with integrated SEO, ensuring better rankings in search results.
 
 **High Performance:**
-"High-performance and fast applications, offering a fluid and responsive user experience."
+High-performance and fast applications, offering a fluid and responsive user experience.
 
 **Efficient Automation:**
-"Automate processes with automated workflows, reducing manual effort and increasing efficiency."
+Automate processes with automated workflows, reducing manual effort and increasing efficiency.
 
 ## Summary
 
-1. What is this?
-1. When should I use this?
-1. [Milton Bolonha](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#milton-bolonha)
-1. [Prerequisites](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#prerequisites)
-1. Install
-1. Use
-1. Examples
-1. [Manual Installation](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#manual-installation)
-1. [Project Structure](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#project-structure)
-1. [GitHub Installation Steps](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#github-installation-steps)
-1. [Netlify Deploy Steps](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#netlify-deploy-steps)
-1. [SendGrid Integration](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#sendGrid-integration)
-1. [Managing Posts](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#managing-posts)
-1. [Managing Pages](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#managing-pages)
-1. [Business Settings](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#business-settings)
-1. [Site Settings](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#site-settings)
-1. [Theme Settings](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#theme-settings)
-1. [Logos Upload](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#logos-upload)
-1. [Main Menu](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#main-menu)
-1. [Link Tree](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#link-tree)
-1. [Our Features](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#our-features)
-   - [Commercial Advantages](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#commercial-advantages)
-   - [Integrations](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#integrations)
-   - [Development Technologies](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#development-technologies)
-   - [Blog Features](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#blog-features)
-   - [Web Coding](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#web-coding)
-   - [Code Flow](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#code-flow)
-   - [Code Quality](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#code-quality)
-   - [PageSpeed](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#pagespeed)
-   - [Optimization](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#optimization)
-   - [Standard Documentations](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#standard-documentations)
-1. [Contact Info](https://github.com/miltonbolonha/boilerplate-times/blob/master/README.md#contact-info)
+1. [Milton Bolonha](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#milton-bolonha)
+1. [Prerequisites](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#prerequisites)
+1. [Manual Installation](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#manual-installation)
+1. [Project Structure](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#project-structure)
+1. [GitHub Installation Steps](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#github-installation-steps)
+1. [Netlify Deploy Steps](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#netlify-deploy-steps)
+1. [SendGrid Integration](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#sendGrid-integration)
+1. [Managing Posts](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#managing-posts)
+1. [Managing Pages](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#managing-pages)
+1. [Business Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#business-settings)
+1. [Site Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#site-settings)
+1. [Theme Settings](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#theme-settings)
+1. [Logos Upload](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#logos-upload)
+1. [Main Menu](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#main-menu)
+1. [Link Tree](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#link-tree)
+1. [Our Features](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#our-features)
+   - [Commercial Advantages](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#commercial-advantages)
+   - [Integrations](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#integrations)
+   - [Development Technologies](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#development-technologies)
+   - [Blog Features](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#blog-features)
+   - [Web Coding](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#web-coding)
+   - [Code Flow](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#code-flow)
+   - [Code Quality](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#code-quality)
+   - [PageSpeed](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#pagespeed)
+   - [Optimization](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#optimization)
+   - [Standard Documentations](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#standard-documentations)
+1. [Contact Info](https://github.com/miltonbolonha/readme-boilerplate/blob/master/README.md#contact-info)
 
 # Milton Bolonha
 
